@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-var kNormalTextStyle = TextStyle(
+var kNormalTextStyle = const TextStyle(
   fontSize: 18.0,
   color: Colors.black,
 );
 
-var kTitleTextStyle = TextStyle(
+var kTitleTextStyle = const TextStyle(
   fontSize: 30.0,
   color: Colors.black,
   fontWeight: FontWeight.w700,
