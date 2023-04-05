@@ -1,7 +1,7 @@
 import 'package:iamomjogani/navbar/navigation_menuItem.dart';
 import 'package:iamomjogani/screens/about/about_screen.dart';
 import 'package:iamomjogani/screens/contact/contact_screen.dart';
-import 'package:iamomjogani/screens/Projects/project_screen.dart';
+import 'package:iamomjogani/screens/projects/project_screen.dart';
 import 'package:flutter/material.dart';
 
 class DesktopNavbar extends StatefulWidget {
